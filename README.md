@@ -38,3 +38,9 @@ Dependencies:
 Note: Ensure that the rembg library is correctly installed and that your environment meets all necessary requirements for running Streamlit applications.​
 
 For more information on the rembg library, refer to its GitHub repository (https://github.com/danielgatis/rembg).
+
+![image](https://github.com/user-attachments/assets/ebe40e78-60d5-44ff-b787-c93cd9217f2a)
+
+![image](https://github.com/user-attachments/assets/e10b34b8-ae35-43e8-a214-9bebef617a44)
+
+
