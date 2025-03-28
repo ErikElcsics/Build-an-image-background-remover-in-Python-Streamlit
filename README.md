@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Usage:
 1. Run the Streamlit Application:
-In your development environment run this command - streamlit run app.py
+In your development environment run this command - streamlit run RemoveBackgroundImagePythonStreamlit.py
 
 2. Interact with the App:
 
