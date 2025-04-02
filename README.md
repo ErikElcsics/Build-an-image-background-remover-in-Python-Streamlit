@@ -1,13 +1,13 @@
 # Build-an-image-background-remover-in-Python-Streamlit
 This project is a Streamlit-based web application with Python code that enables users to remove backgrounds from images. By leveraging the rembg library, it provides a user-friendly interface for uploading images, processing them to remove backgrounds, and downloading the results.​
 
-Features:
+# Features:
 
 - Upload Images: Supports JPG, JPEG, and PNG formats.​
 - Background Removal: Utilizes the rembg library to process and remove image backgrounds.​
 - Download Processed Images: Allows users to download the background-removed images in PNG format.​
 
-Installation:
+# Installation:
 
 1. Clone the Repository:
 git clone https://github.com/ErikElcsics/Build-an-image-background-remover-in-Python-Streamlit.git
@@ -18,7 +18,7 @@ cd Build-an-image-background-remover-in-Python-Streamlit
 3. Install Required Dependencies:
 pip install -r requirements.txt
 
-Usage:
+# Usage:
 1. Run the Streamlit Application:
 In your development environment run this command - streamlit run RemoveBackgroundImagePythonStreamlit.py
 
@@ -29,7 +29,7 @@ b. Click on the "Remove Background" button to process the image.​
 c. View the original and processed images displayed in the app.​
 d. Download the background-removed image using the provided download button.​
 
-Dependencies:
+# Dependencies:
 
 1. rembg: For background removal processing.​
 2. Pillow: For image handling and manipulation.​
